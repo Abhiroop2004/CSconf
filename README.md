@@ -1,7 +1,7 @@
 # 🔖💻 CSConferences
 ### A Comprehensive List of Computer Science Conferences in India (for Students) **→**
 - International Conference in Network Security and Blockchain Technology (ICNSBT) 2025 | Haldia Tech
-    - https://csikolkata.org/ICNSBT2025/?i=1
+    - [ICNSBT 2025](https://csikolkata.org/ICNSBT2025/)
     - 30 October 2024
     - 14-16 Jan 2025
     - Springer (Waiting for approval)
@@ -11,17 +11,17 @@
     - 16-17 January 2025
     - IEEE Xplore
 - **International Symposium in Artificial Intelligence (ISAI) 2025 | NIT Sikkim**
-    - https://csikolkata.org/ISAI2025/
+    - [ISAI 2025](https://csikolkata.org/ISAI2025/)
     - 30 October 2024
     - 5-7 March 2025
     - Springer (Waiting for approval)
-- INTERNATIONAL CONFERENCE ON NETWORKS AND CRYPTOLOGY (NETCRYPT) 2025 | JNU Delhi
-    - https://www.netcrypt.org.in/special
+- International Conference on Networks and Cryptology (NETCRYPT) 2025 | JNU Delhi
+    - [NETCRYPT-2025](https://www.netcrypt.org.in/special)
     - 31 December, 2024
     - 29-31 May 2025
     - IEEE (pending)
-- ICSC 2025 | JIIT Noida
-    - https://www.jiit.ac.in/jiit/ICSC/
+- 10th International Conference on Signal Processing and Communication (ICSC) 2025 | JIIT Noida
+    - [ICSC-2025](https://www.jiit.ac.in/jiit/ICSC/)
     - 25 October 2024
     - 20-22 February 2025
     - IEEE Xplore
