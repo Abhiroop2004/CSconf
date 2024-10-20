@@ -10,7 +10,7 @@
     - 20 October 2024
     - 16-17 January 2025
     - IEEE Xplore
-- **International Symposium in Artificial Intelligence (ISAI) 2025 | NIT Sikkim**
+- **International Symposium in Artificial Intelligence (ISAI) 2025** | **NIT Sikkim**
     - [ISAI 2025](https://csikolkata.org/ISAI2025/)
     - 30 October 2024
     - 5-7 March 2025
