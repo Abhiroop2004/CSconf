@@ -1,4 +1,4 @@
-# 🔖💻 CSConferences
+# 🔖💻 CSconferences
 ### A Comprehensive List of Computer Science Conferences in India (for Students) **→**
 - International Conference in Network Security and Blockchain Technology (ICNSBT) 2025 | Haldia Tech
     - [ICNSBT 2025](https://csikolkata.org/ICNSBT2025/)
