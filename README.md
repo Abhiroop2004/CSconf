@@ -4,16 +4,19 @@
     - 30 October 2024
     - 14-16 Jan 2025
     - Springer (Waiting for approval)
+      
 - 3rd International Conference on Intelligent and Innovative Technologies in Computing (ICIITCEE) 2025 | BNMIT Bengaluru
     - [IITCEE-2025](https://www.iciitcee.in/)
     - 20 October 2024
     - 16-17 January 2025
     - IEEE Xplore
+      
 - **International Symposium in Artificial Intelligence (ISAI) 2025** | **NIT Sikkim**
     - [ISAI 2025](https://csikolkata.org/ISAI2025/)
     - 30 October 2024
     - 5-7 March 2025
     - Springer (Waiting for approval)
+      
 - 3rd International Conference on Networks and Cryptology (NETCRYPT) 2025 | JNU Delhi
     - [NETCRYPT-2025](https://www.netcrypt.org.in/special)
     - 31 December, 2024
