@@ -25,42 +25,42 @@
     - 25 October 2024
     - 20-22 February 2025
     - IEEE Xplore
-- SPIN 2025 | Amity Noida
-    - https://www.amity.edu/spin2025/default.aspx
+- 12th International Conference on Signal Processing and Integrated Networks (SPIN 2025) 2025 | Amity Noida
+    - [SPIN 2025](https://www.amity.edu/spin2025/default.aspx)
     - 20 October 2024
     - 20-21 February 2025
     - Springer LNEE
-- **ICCINS 2025 | NIT Raipur**
-    - https://iccin.nitrr.ac.in/index.php/conferenceVenue
+- **2nd International Conference on Computational Intelligence and Network Security (ICCINS) 2025** | **NIT Raipur**
+    - [ICCINS 2025](https://iccin.nitrr.ac.in/index.php/conferenceVenue)
     - 25 November 2024
     - 3 - 4 April 2025
-- ICE 2025 | SNU Delhi
-    - https://snuice.in/
+- International Conference on Innovation in Computing and Engineering (ICE) 2025 | SNU Delhi
+    - [ICE 2025](https://snuice.in/)
     - 30 October 2024
     - 28 February - 1 March 2025
     - IEEE Xplore
-- ICCCT 2025 | NFSU Goa
-    - https://www.scrs.in/public/conference/iccct2025
+- 7th International Conference on Communication and Computational Technologies (ICCCT) 2025 | NFSU Goa
+    - [ICCCT 2025](https://www.scrs.in/public/conference/iccct2025)
     - 6 December 2024
     - 14 -15 February 2025
     - Springer LNNS
-- **SCEES 2025 | NIT Bhopal**
-    - https://sceecs.ieeenitb.com/
+- **International Students' Conference on Electrical, Electronics and Computer Sciences (SCEECS) 2025** | **NIT Bhopal**
+    - [SCEECS 2025](https://sceecs.ieeenitb.com/)
     - 5 November 2024
     - 18-19 January 2025
     - IEEE Xplore
-- **COCOLE 2025 | NIT Warangal**
-    - https://ic-cocole.in/index.php#
+- **COCOLE 2025** | **NIT Warangal**
+    - [COCOLE 2025](https://ic-cocole.in/index.php#)
     - Not Decided
     - 13-15 September 2025
     - IEEE Xplore
-- **RAIT 2025 | IIT Dhanbad**
-    - https://people.iitism.ac.in/~rait/
+- **Recent Advancements in Information Technology 2025** | **IIT Dhanbad**
+    - [RAIR 2025](https://people.iitism.ac.in/~rait/)
     - 2 November 2024
     - 6-8 March 2025
     - IEEE Xplore
 - ICSA 2025 | MIT-WPU Pune
-    - https://sites.google.com/view/icisa2025
+    - [ICSA 2025](https://sites.google.com/view/icisa2025)
     - 2 December 2024
     - 24-25 April 2024
     - Springer LNNS (planned)
