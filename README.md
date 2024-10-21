@@ -3,13 +3,13 @@
     - [ICNSBT 2025](https://csikolkata.org/ICNSBT2025/)
     - 30 October 2024
     - 14-16 Jan 2025
-    - Springer (Waiting for approval)
+    - Springer (Waiting for approval) <br>
       
 - 3rd International Conference on Intelligent and Innovative Technologies in Computing (ICIITCEE) 2025 | BNMIT Bengaluru
     - [IITCEE-2025](https://www.iciitcee.in/)
     - 20 October 2024
     - 16-17 January 2025
-    - IEEE Xplore
+    - IEEE Xplore <br>
       
 - **International Symposium in Artificial Intelligence (ISAI) 2025** | **NIT Sikkim**
     - [ISAI 2025](https://csikolkata.org/ISAI2025/)
