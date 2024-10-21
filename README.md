@@ -64,7 +64,7 @@
     - 2 December 2024
     - 24-25 April 2024
     - Springer LNNS (planned)
-- **NCC 2025 | IIT Delhi**
+- **NCC 2025** | **IIT Delhi**
     - https://ncc2025.iiitd.ac.in/
     - 1 November 2024
     - 6-9 March 2025
