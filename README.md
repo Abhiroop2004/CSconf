@@ -49,7 +49,7 @@
     - 5 November 2024
     - 18-19 January 2025
     - IEEE Xplore
-- **COCOLE 2025** | **NIT Warangal**
+- **International Conference on Computing, Communication and Learning (COCOLE) 2025** | **NIT Warangal**
     - [COCOLE 2025](https://ic-cocole.in/index.php#)
     - Not Decided
     - 13-15 September 2025
@@ -59,13 +59,13 @@
     - 2 November 2024
     - 6-8 March 2025
     - IEEE Xplore
-- ICSA 2025 | MIT-WPU Pune
+- 4th International Conference on Intelligent Systems and Applications (ICSA) 2025 | MIT-WPU Pune
     - [ICSA 2025](https://sites.google.com/view/icisa2025)
     - 2 December 2024
     - 24-25 April 2024
     - Springer LNNS (planned)
-- **NCC 2025** | **IIT Delhi**
-    - https://ncc2025.iiitd.ac.in/
+- **31st National Conference on Communications (NCC) 2025** | **IIT Delhi**
+    - [NCC 2025](https://ncc2025.iiitd.ac.in/)
     - 1 November 2024
     - 6-9 March 2025
     - IEEE Xplore
