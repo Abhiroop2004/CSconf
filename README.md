@@ -44,7 +44,7 @@
     - 6 December 2024
     - 14 -15 February 2025
     - Springer LNNS
-- **International Students' Conference on Electrical, Electronics and Computer Sciences (SCEECS) 2025** | **NIT Bhopal**
+- **10th International Students' Conference on Electrical, Electronics and Computer Sciences (SCEECS) 2025** | **NIT Bhopal**
     - [SCEECS 2025](https://sceecs.ieeenitb.com/)
     - 5 November 2024
     - 18-19 January 2025
@@ -70,4 +70,5 @@
     - 6-9 March 2025
     - IEEE Xplore
 
-**Note:** Conferences with Institutes of National Importance as venue are in **Bold**
+**Note:** Conferences with Institutes of National Importance as venues are in **Bold**
+Idea and Motivation by [Snehal Ghosh](https://github.com/IWontTellMyName)
