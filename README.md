@@ -55,7 +55,7 @@
     - 13-15 September 2025
     - IEEE Xplore
 - **Recent Advancements in Information Technology 2025** | **IIT Dhanbad**
-    - [RAIR 2025](https://people.iitism.ac.in/~rait/)
+    - [RAIT 2025](https://people.iitism.ac.in/~rait/)
     - 2 November 2024
     - 6-8 March 2025
     - IEEE Xplore
