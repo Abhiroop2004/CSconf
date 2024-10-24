@@ -69,6 +69,11 @@
     - 1 November 2024
     - 6-9 March 2025
     - IEEE Xplore
+- **Second International Conference on "Artificial Intelligence, Machine Learning & Intelligent Systems (ICAMS) 2025** | **NIT Hamirpur**
+    - [ICAMS 2025](https://sites.google.com/nith.ac.in/icams2025/)
+    - 20 November 2024
+    - 7-8 February 2025
+    - Springer Book Series
 
 **Note:** Conferences with Institutes of National Importance as venues are in **Bold** <br>
 #### Acknowledgement
